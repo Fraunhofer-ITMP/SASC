@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/Fraunhofer-ITMP/SASC/workflows/repo2docker/badge.svg)](https://github.com/Fraunhofer-ITMP/SASC/actions)
+
 # SASC:  A Simple Approach to Synthetic Cohort Generation
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fraunhofer-ITMP/SASC/main?urlpath=shiny/)
 
