@@ -1,7 +1,5 @@
-[![Actions Status](https://github.com/Fraunhofer-ITMP/SASC/workflows/repo2docker/badge.svg)](https://github.com/Fraunhofer-ITMP/SASC/actions)
-
 # SASC:  A Simple Approach to Synthetic Cohort Generation
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fraunhofer-ITMP/SASC/main?urlpath=shiny/)
+[![Actions Status](https://github.com/Fraunhofer-ITMP/SASC/workflows/repo2docker/badge.svg)](https://github.com/Fraunhofer-ITMP/SASC/actions) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fraunhofer-ITMP/SASC/main?urlpath=shiny/)
 
 [Public COVID-19 reference data](https://github.com/HAIRLAB/Pre_Surv_COVID_19/tree/master/data) have been used for the following Shiny App to generate synthetic data via the SASC algorithm. Here, a comparison through the Kaplan-Meier plots is provided so that the parameters chosen for the virtual cohort can be checked against the real-world data.
 
