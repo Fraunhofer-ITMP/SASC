@@ -20,7 +20,7 @@
 ## Details about the App
 - **Data** - *PreSurv* data can be found [here](https://github.com/HAIRLAB/Pre_Surv_COVID_19/tree/master/data)
 - **Shiny App** - Click the binder icon on the top to run the current SASC version application.
-- **Packages used** - Check for the [environment file](https://github.com/Fraunhofer-ITMP/SASC/blob/YojanaGadiya-patch-1/binder/environment.yml)
+- **Packages used** - Check the environment file in the binder folder for these following details.
 
 <b>TO NOTE: The app is heavy on server side, and it can be slow - be patient.</b> 
 
