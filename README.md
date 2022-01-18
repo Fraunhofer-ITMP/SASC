@@ -20,16 +20,7 @@
 ## Details about the App
 - **Data** - *PreSurv* data can be found [here](https://github.com/HAIRLAB/Pre_Surv_COVID_19/tree/master/data)
 - **Shiny App** - Click the binder icon on the top to run the current SASC version application.
-- **Packages used** - 
-    1. *shiny* version 1.6.0
-    2. [*tidyverse*](https://doi.org/10.21105/joss.01686)
-    3. [*survival*](https://github.com/therneau/survival)
-    4. [*survminer*](https://github.com/kassambara/survminer/)
-    5. [*corrr*](https://github.com/tidymodels/corrr)
-    6. [*reshape2*](https://github.com/hadley/reshape)
-    7. [*ggforce*](https://github.com/thomasp85/ggforce)
-    8. [*gridExtra*](https://cran.r-project.org/web/packages/gridExtra/index.html)
-    9. [*lubridate*](https://github.com/tidyverse/lubridate) 
+- **Packages used** - Check for the [environment file](https://github.com/Fraunhofer-ITMP/SASC/blob/YojanaGadiya-patch-1/binder/environment.yml)
 
 <b>TO NOTE: The app is heavy on server side, and it can be slow - be patient.</b> 
 
