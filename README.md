@@ -6,7 +6,7 @@
     <img src="https://github.com/Fraunhofer-ITMP/SASC/workflows/repo2docker/badge.svg"
          alt="GitHub Actions">
   </a>
-  <a href="https://mybinder.org/v2/gh/Fraunhofer-ITMP/SASC/main?urlpath=shiny/">
+  <a href="https://mybinder.org/v2/gh/Fraunhofer-ITMP/SASC/v1.0?urlpath=shiny/">
     <img src="https://mybinder.org/badge_logo.svg" alt="SASC Shiny App">
   </a>
   <br>
