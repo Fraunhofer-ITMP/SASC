@@ -39,6 +39,6 @@ If you have difficulties using the app, please open an issue at our bug-tracker 
 SASC is a scientific application that has been developed in an academic capacity and thus comes with no warranty or guarantee of maintenance, support, or back-up of data.
 
 ## Citation
-If you use our work, please cite our [pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3942844):
+If you use our work, please cite our [paper](https://doi.org/10.1016/j.patter.2022.100453):
 
 > Khorchani, Takoua, et al. "SASC: A Simple Approach to Synthetic Cohorts for Generating Longitudinal Observational Patient Cohorts from COVID-19 Clinical Data." Available at SSRN 3942844. https://doi.org/10.1016/j.patter.2022.100453
